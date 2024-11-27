@@ -12,3 +12,6 @@ by torch reference: https://hongl.tistory.com/245
 
 - Dataset: movielens 20m from https://grouplens.org/datasets/movielens/20m/
 - preprocessing: rating < 3.5 => 0 rating >= 3.5 => 1 
+
+### 04.SASRec
+by torch reference https://github.com/pmixer/SASRec.pytorch/tree/master
